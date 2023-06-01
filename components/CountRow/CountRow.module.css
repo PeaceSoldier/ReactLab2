@@ -1,0 +1,9 @@
+.center {
+    text-align: center;
+}
+.rowButtons {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}

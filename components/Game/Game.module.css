@@ -1,0 +1,10 @@
+.message{
+    font-size: 20px;
+}
+.input {
+    background-color: gray;
+}
+.wrapper {
+    display: flex;
+    justify-content: center;
+}
